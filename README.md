@@ -2,14 +2,16 @@
 
 Dart has many similarities to other languages such as Java, C#, Swift and Kotlin. Some of its features include:
 
-Statically typed
+Statically typed;
 
-Type inference
+Type inference;
 
-String expressions
+String expressions;
 
-Multi-paradigm including object-oriented and functional programming
+Multi-paradigm including object-oriented and functional programming;
 
-Null safe
+Null safe.
+
+
 
 Dart is optimized for developing fast apps on a variety of platforms.
